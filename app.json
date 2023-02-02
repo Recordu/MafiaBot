@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "value": "@Daakuu_op",
       "required": false
     },
     "ABUSE": {
@@ -34,22 +34,22 @@
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈Daakuu IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "value": "https://te.legra.ph/file/465eabca034ecf86a2667.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO DaaKuu😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://te.legra.ph/file/f65e8ab15963ffd9d83ec.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -59,7 +59,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": "16074195"
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
@@ -73,15 +73,15 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": "e1321976377b14e0293719bae654ad87"
     },
     "MAFIABOT_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
-      "value": "-1001174481876"
+      "value": "-1001764607382"
     },
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "1BVtsOHMBuy44hjXyWO7XyvmflAfItyVOLrNfIL4iWSmB7_7bdBl3cHdhS6eH3dpKRkch73x35E1i2WTgW4Wru4-6P0lAo3LERzmV-npk13OxMLEvezkZi2AW9bquva2Wv7e71JX7pvGviRb4pUfrz2e8mmqipoy2IZDiiU-qMCJymr9b8RCPPsuZkrZfbFKn1Ix8vFwV06tZ_kTymnkTED0dGVgV9zyCj5oWmR2fhOAIfsj0fbF5UUDAcapJ8O81D3doHPrlkW2-PFpTVy_zPSVSbmikYGt0uky2GGPnxCx6aTPI69HhS0139bt0gB-zjmA0O1A21KrdH5zzSVbesxOkP5VnPVQ="
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
@@ -95,15 +95,15 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": "6165272242:AAE7Ic-Vmlp2UGo8aE5z8Judsn4_J_PT3XQ"
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@Dakku145_bot"
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "value": "https://te.legra.ph/file/ea640d40f05f343cb73bc.jpg",
       "required": false 
     },
     "EMOJI_IN_HELP": {
